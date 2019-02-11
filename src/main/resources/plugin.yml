@@ -1,0 +1,7 @@
+name: LevelRewards
+version: ${project.version}
+main: me.nowaha.levelrewards.LevelRewards
+authors: [Nowaha]
+commands:
+  levelrewards:
+    description: Commands related to LevelRewards.

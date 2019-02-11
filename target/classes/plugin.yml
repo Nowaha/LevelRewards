@@ -1,0 +1,7 @@
+name: LevelRewards
+version: 1.0
+main: me.nowaha.levelrewards.LevelRewards
+authors: [Nowaha]
+commands:
+  levelrewards:
+    description: Commands related to LevelRewards.

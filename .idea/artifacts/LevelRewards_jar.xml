@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="LevelRewards:jar">
+    <output-path>$USER_HOME$/Documents/Minecraft Servers/levelrewards/plugins</output-path>
+    <root id="archive" name="LevelRewards.jar">
+      <element id="module-output" name="LevelRewards2" />
+    </root>
+  </artifact>
+</component>
